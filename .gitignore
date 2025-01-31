@@ -1,1 +1,3 @@
 .ipynb_checkpoints/
+wandb/
+wav2vec2-large-xls-r-300m-ru/
